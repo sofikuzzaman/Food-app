@@ -1,0 +1,67 @@
+.halthy-food{
+  
+  width: 500px;
+  border: 1px solid black;
+  border-radius: 5px;
+  min-height:100vh;
+  background-color: rgb(214, 216, 216);
+ 
+
+
+}
+.halthy-food h1 {
+  text-align: center;
+  text-transform: capitalize;
+  font-weight:bold ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(3, 3, 119);
+}
+  
+.halthy-food input{
+  width: 70%;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.input-btn{
+  padding: 10px 20px;
+  margin-left: 10px;
+  background-color:rgb(43, 226, 83);
+  color: rgb(255, 0, 0);
+  border-radius: 5px;
+}
+
+.list-items{
+  list-style: none;
+  
+}
+
+.list-items  li {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(201, 255, 4, 0.747);
+  margin-top: 5px;
+  margin-right:25px;
+  font-size:30px;
+  text-transform: capitalize;
+  color: rgb(255, 0, 0);
+}
+.btn-one{
+  padding: 12px 25px;
+  margin-right: 20px;
+  background-color: white;
+  color: rgb(0, 183, 255);
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  
+}
+.btn-two{
+  padding: 12px 25px;
+  
+  background-color: white;
+  color: rgb(0, 183, 255);
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+}
